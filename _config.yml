@@ -1,6 +1,6 @@
 name: The Tales of B Continued
 baseurl: /bbaillie2.github.io
-description: A continuation of The Tales of B
+description: A continuation of The Tales of B by Bronwyn Baillie
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
